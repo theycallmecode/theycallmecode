@@ -14,8 +14,8 @@ Welcome to my GitHub! I'm a  passionate about building scalable web apps and exp
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 
 ## 🌟 Featured Projects
-- **[Project Name](Link to Repo)**: [Brief Description, e.g., A full-stack web app for task management built with React and Node.js].  
-- **[Project Name](Link to Repo)**: [Brief Description, e.g., A machine learning model for predicting stock prices using Python and TensorFlow].
+- **[SPAMi](https://github.com/theycallmecode/SPAMi.git)**: [Spam Email Detector, Machine Learning Project using Linear Regression].  
+- **[PikaBot](https://github.com/theycallmecode/Pikabot.git)**: [Simple Chat with NLP].
 
 ## 📬 Connect With Me
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />](www.linkedin.com/in/shubham-raj-1a11aa332)
