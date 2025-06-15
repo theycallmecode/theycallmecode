@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a  passionate about building scalable web apps and exp
 
 ## 🚀 About Me
 - 🔭 I’m currently pursuing B.Tech at Bihar Engineering University.
-- 🌱 I’m learning MERN Stack Web Development and Machine Learning.
+- 🌱 I’m learning MERN Stack Web Development and Machine Learning with Python.
 - 👯 I’m looking to collaborate in hackathons and MERN Stack Projects.
 - 📫 Reach me at: ershubhcsofficial@gmail.com
 
@@ -17,14 +17,10 @@ Welcome to my GitHub! I'm a  passionate about building scalable web apps and exp
 - **[Project Name](Link to Repo)**: [Brief Description, e.g., A full-stack web app for task management built with React and Node.js].  
 - **[Project Name](Link to Repo)**: [Brief Description, e.g., A machine learning model for predicting stock prices using Python and TensorFlow].
 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
-
 ## 📬 Connect With Me
-[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />](Your LinkedIn URL)
-[<img src="https://img.shields.io/badge/Portfolio-000000?logo=web&logoColor=white" alt="Portfolio" />](Your Portfolio URL)
-[<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />](mailto:Your Email)
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />](www.linkedin.com/in/shubham-raj-1a11aa332)
+
+[<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />](mailto:ershubhcsofficial@gmail.com)
 
 ## 🎉 Fun Fact
-[Something Unique, e.g., I’ve coded in 5 different countries while traveling!]
+I enjoy integrating anime into my development projects.
