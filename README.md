@@ -15,7 +15,7 @@ Welcome to my GitHub! I'm a  passionate about building scalable web apps and exp
 
 ## 🌟 Featured Projects
 - **[SPAMi](https://github.com/theycallmecode/SPAMi.git)**: [Spam Email Detector, Machine Learning Project using Linear Regression].  
-- **[PikaBot](https://github.com/theycallmecode/Pikabot.git)**: [Simple Chat with NLP].
+- **[PikaBot](https://github.com/theycallmecode/Pikabot.git)**: [Simple Chat Bot with NLP].
 
 ## 📬 Connect With Me
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />](www.linkedin.com/in/shubham-raj-1a11aa332)
